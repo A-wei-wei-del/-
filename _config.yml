@@ -1,3 +1,4 @@
+theme :
 :root {
     --side-bar-bg-color: #fafafa;
     --control-text-color: #777;
